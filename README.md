@@ -1,6 +1,11 @@
-## Hi folks! I'm Pirmin 👋
+# Hi folks! I'm Pirmin 👋
+
+<div>
+  <img height='180em' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PirminP&theme=dark'/>
 
 
+  
+</div>
 
 
 
