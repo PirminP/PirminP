@@ -1,9 +1,14 @@
 # Hi folks! I'm Pirmin 👋
 
+## About me
+
+## Contact me
+
+
+## GitHub Stats
 <div>
   <img height='180em' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PirminP&theme=dark'/>
   <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=PirminP&theme=dark'/>
-  
 </div>
 
 
