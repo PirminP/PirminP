@@ -1,6 +1,9 @@
 # Hi folks! I'm Pirmin 👋
 
 ## About me
+💼 Full Stack Developer & MSc Aerospace Engineering\
+🗣️ English, German, Portuguese, Spanish\
+🏠 Belo Horizonte, Brazil
 
 ## Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pirmin-pernsteiner/)
@@ -8,11 +11,12 @@
 
 ## Languages & Tools
 <div>
-  <img align='space-around' alt='pirmin-html' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
+  <img align='space-around' alt='pirmin-html' src='https://img.shields.io/badge/HTML5-E34F26?    style=for-the-badge&logo=html5&logoColor=white'/>
   <img align='space-around' alt='pirmin-css' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/>
   <img align='space-around' alt='pirmin-js' src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
   <img align='space-around' alt='pirmin-ts' src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'/>
   <img align='space-around' alt='pirmin-py' src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue'/>
+    <img align='space-around' alt='pirmin-c++' src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white'/>
   <img align='space-around' alt='pirmin-react' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
   <img align='space-around' alt='pirmin-redux' src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white'/>
   <img align='space-around' alt='pirmin-sequelize' src='https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white'/>
@@ -32,10 +36,15 @@
     <img align='space-around' alt='pirmin-testinglib' src='https://camo.githubusercontent.com/81aeb1a947697457dbf01915ba8bb60e4bcf0c9003fc2d62659be9d5d5b47317/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f74657374696e672532306c6962726172792d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d74657374696e672d6c696272617279266c6f676f436f6c6f723d726564'/>
     <img align='space-around' alt='pirmin-mocha' src='https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white'/>
     <img align='space-around' alt='pirmin-chai' src='https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white'/>
-    <img align='space-around' alt='pirmin-sinon' src='https://camo.githubusercontent.com/a451f6427725c817926a8392fba2da2f21a9a17889b0d5fb3a54ece2f5355e5e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73696e6f6e2e6a732d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d73696e6f6e'/>
-    
+    <img align='space-around' alt='pirmin-sinon' src='https://camo.githubusercontent.com/a451f6427725c817926a8392fba2da2f21a9a17889b0d5fb3a54ece2f5355e5e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73696e6f6e2e6a732d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d73696e6f6e'/> 
 </div>
 
+## Complementary tools
+<div>
+    <img align='space-around' alt='pirmin-powerbi' src='https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white'/>
+    <img align='space-around' alt='pirmin-figma' src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white'/>
+    <img align='space-around' alt='pirmin-trello' src='https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white'/>
+</div>
 
 ## GitHub Stats
 <div>
@@ -57,5 +66,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ..
 -->
