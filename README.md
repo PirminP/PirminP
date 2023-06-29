@@ -8,20 +8,22 @@
 
 ## Languages & Tools
 <div>
-  <img align='center' alt='pirmin-html' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
-  <img align='center' alt='pirmin-css' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/>
-  <img align='center' alt='pirmin-js' src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
-  <img align='center' alt='pirmin-ts' src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'/>
-  <img align='center' alt='pirmin-py' src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue'/>
-  <img align='center' alt='pirmin-react' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
-  <img align='center' alt='pirmin-redux' src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white'/>
-  <img align='center' alt='pirmin-sequelize' src='https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white'/>
-  <img align='center' alt='pirmin-node.js' src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white'/>
-  
-  
+  <img align='space-around' alt='pirmin-html' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
+  <img align='space-around' alt='pirmin-css' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/>
+  <img align='space-around' alt='pirmin-js' src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'/>
+  <img align='space-around' alt='pirmin-ts' src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'/>
+  <img align='space-around' alt='pirmin-py' src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue'/>
+  <img align='space-around' alt='pirmin-react' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
+  <img align='space-around' alt='pirmin-redux' src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white'/>
+  <img align='space-around' alt='pirmin-sequelize' src='https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white'/>
+  <img align='space-around' alt='pirmin-node.js' src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white'/>
+  <img align='space-around' alt='pirmin-docker' src='https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white'/>
+</div>
+
+## Databases
+<div>
   <img align='center' alt='pirmin-html' src=''/>
-  <img align='center' alt='pirmin-html' src=''/>
-  <img align='center' alt='pirmin-html' src=''/>
+  <img align='center' alt='pirmin-html' src=''/>f
 </div>
 
 
