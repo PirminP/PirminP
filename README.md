@@ -22,8 +22,18 @@
 
 ## Databases
 <div>
-  <img align='center' alt='pirmin-html' src=''/>
-  <img align='center' alt='pirmin-html' src=''/>f
+  <img align='space-around' alt='pirmin-mysql' src='https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white'/>
+  <img align='space-around' alt='pirmin-mongodb' src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'/>
+</div>
+
+## Tests
+<div>
+    <img align='space-around' alt='pirmin-jest' src='https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white'/>
+    <img align='space-around' alt='pirmin-testinglib' src='https://camo.githubusercontent.com/81aeb1a947697457dbf01915ba8bb60e4bcf0c9003fc2d62659be9d5d5b47317/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f74657374696e672532306c6962726172792d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d74657374696e672d6c696272617279266c6f676f436f6c6f723d726564'/>
+    <img align='space-around' alt='pirmin-mocha' src='https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white'/>
+    <img align='space-around' alt='pirmin-chai' src='https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white'/>
+    <img align='space-around' alt='pirmin-sinon' src='https://camo.githubusercontent.com/a451f6427725c817926a8392fba2da2f21a9a17889b0d5fb3a54ece2f5355e5e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73696e6f6e2e6a732d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d73696e6f6e'/>
+    
 </div>
 
 
