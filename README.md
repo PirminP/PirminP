@@ -7,7 +7,7 @@
 🏠 Belo Horizonte, Brazil\
 💡 First contact with programming: C++ during university (BSc)\
 📚 Eager to learn & develop my skills e.g.: C#, Java and cloud computing\
-💻 Affinity with back-end applications\
+💻 Affinity with back-end applications together with javascript\
 🧠 Passion for chess and 'Napoleon Hill' books\
 🌱 Talented for organization, creativity & problem solving\
 💬 Open for networking & collaboration - feel free to connect! :)
